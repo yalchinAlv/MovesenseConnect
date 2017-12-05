@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movesense Connect</string>
+    <string name="instructions_text">Instructions:\n
+        - First enter your name and scan for BLE devices and then connect to it by clicking it on the list.\n
+        - Clicking on connected device will subscribe to accelerometer and bpm data.\n
+        - Clicking on &quot;Unsubscribe&quot; will unsubscribe from sensor data.\n
+        - Long click on connected device will disconnect
+    </string>
+</resources>
